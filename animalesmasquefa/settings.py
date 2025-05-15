@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-mh+db#f-@_3=ua=t7=f)x6sfehuj)&nvy&xq8@3(f*2alnus@7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['backendanimales.onrender.com']
 
 
 
